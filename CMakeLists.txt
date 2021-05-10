@@ -4,4 +4,4 @@ project(algorithm-cpp)
 set(CMAKE_CXX_STANDARD 11)
 
 add_executable(study main.cpp)
-add_executable(another another.cc)
+add_executable(search search.cc)
